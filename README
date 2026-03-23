@@ -1,0 +1,39 @@
+## Project Title
+
+GBDA302 Week 9 Example 3
+
+---
+
+## Authors
+
+Fei Fei Chen
+
+---
+
+## Description
+
+Allows players to jump over blocks and can toggle features like Moon Gravity and showing hitblocks in the debug menu. The menu can be visible and hidden by pressing the H button allowing users to access and toggle those features.
+
+## Learning Goals
+
+Learning Goals:
+
+- Creating a debug screen menu
+- Being able to toggle settings for a specific outcome
+- Showing and hiding the debug screen menu
+
+---
+
+## Assets
+
+There is sound effects and music uploaded in assets and images for the game.
+
+---
+
+## GenAI
+
+The code was written by Dr. Karen Cochrane and David Han but they used GenAI to write the comments.
+
+Fei Fei edited some parts of the code using AI but changed some parts in sketch.js like the alpha values and the title texts.
+
+---
